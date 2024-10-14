@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Rikvipct Com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Rikvip <https://rikvipct.com/>`_ - Game bài phong cách tài phiệt Mỹ tại Việt Nam. Truy cập Rik Vip để tận hưởng những siêu phẩm game bài đỉnh cao: Rikvipct, Rikvip CT. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 528 Đ. Điện Biên Phủ, Phường 17, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0985985222
 
-Contents
---------
+Email: admin@rikvipct.com
 
-.. toctree::
+Website: https://rikvipct.com/
 
-   usage
-   api
+#rikvip, #rik_vip, #rikvipct, #rikvip_ct, #rikvipchinhhang, #tairikvip, #gamebairikvip, #gamdoithuongrikvip, #taixiurikvip, #dangkyrikvip
